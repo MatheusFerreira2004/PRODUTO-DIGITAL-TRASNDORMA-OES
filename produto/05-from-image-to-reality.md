@@ -22,7 +22,7 @@ List each difference between your photo and the image you like. Give each one a 
 | Pots, doormat, mailbox, house numbers | DIY | |
 | Painting the front door | DIY | Check first on old houses (lead) |
 | Gentle washing of walls and paths | DIY | Avoid high pressure on old paint, mortar, fibro |
-| Painting ground-floor walls and trim | Check first | Lead (old paint), asbestos (old fibro), rot |
+| Painting ground-floor walls and trim | Check first | Lead (old paint), asbestos (old cement sheets), rot |
 | Replacing fence pickets or railing pickets | DIY | Pro if posts or railing frame are loose |
 | Filling hairline cracks in render | DIY | Wider or returning cracks: check first |
 | Anything above ground-floor height | Pro | Falls from ladders are a serious risk |
@@ -39,14 +39,18 @@ List each difference between your photo and the image you like. Give each one a 
 ## 2. Safety by country
 
 ### Lead paint (US and Canada)
-- In the US, homes built before 1978 may have lead-based paint. If you don't know your home's age, treat old paint as if it contains lead.
-- Scraping, sanding and heat-stripping create lead dust and chips. Test first and follow lead-safe practices, or hire a certified professional.
+- **US:** homes built before 1978 may have lead-based paint. The older the home, the more likely. If you don't know your home's age, treat old paint as if it contains lead.
+- **Canada:** homes built before 1960 probably contain lead-based paint. Homes built between 1960 and 1990 may have lead in exterior paint.
+- Scraping, sanding, heat guns and blowlamps create lead dust and fumes. Have the paint tested first (a certified inspector, or paint chips sent to a lab), then follow lead-safe practices or hire a professional.
+- **Selling or renting?** In the US, if you rent out the home or renovate to sell for profit, federal lead-safe rules can apply to you. Hired contractors working on pre-1978 homes must be lead-safe certified.
 - US: EPA — Lead-Safe Renovations for DIYers: https://www.epa.gov/lead/lead-safe-renovations-diyers
-- Canada: Health Canada guidance on lead-based paint (link to confirm before publishing).
+- Canada: Health Canada — Lead-based paint: https://www.canada.ca/en/health-canada/services/home-safety/lead-based-paint.html
 
 ### Asbestos (Australia, and older homes everywhere)
-- In Australia, homes built or renovated before 1990 probably contain some asbestos. Outside, it can be in flat or corrugated cement sheets, eaves linings, fences, sheds and roofing.
-- You cannot identify it by looking. Do not sand, drill, cut, break or pressure-wash suspect materials until tested.
+- In Australia, homes built or renovated before 1990 probably contain some asbestos.
+- Outside, it can be in roof sheeting and ridge capping, gutters and downpipes, gables and eaves linings, wall cladding (including imitation brick cladding), fences, carports, garages and sheds.
+- You cannot identify it by looking. Have a sample tested, or treat the material as asbestos.
+- Do not sand, grind, drill with high-speed tools, cut, break, dry-sweep or pressure-wash suspect materials. If the material is in good condition, leave it undisturbed and ask a professional before painting or working near it.
 - Australia: Asbestos and Silica Safety and Eradication Agency — Householders and home renovators: https://www.asbestossafety.gov.au/about-asbestos/practical-guidance/householders-and-home-renovators
 
 ### Everyone

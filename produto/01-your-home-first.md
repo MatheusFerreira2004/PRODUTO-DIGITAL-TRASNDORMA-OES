@@ -1,6 +1,6 @@
 # Your home first
 
-**Picture your own facade transformed in about 30 minutes, using the same method as the houses in this book.**
+**Picture your own facade transformed, using the same method as the houses in this book.**
 
 [IMAGE: demo_foto-real_antes + demo_foto-real_n2 — a real house photo and its AI "after"]
 
@@ -59,9 +59,8 @@ no logos, no house numbers.
 - Two potted plants by the door.
 ```
 
-### Level 2 changes
+### Level 2 changes (upload your Level 1 image)
 ```
-- Everything from level 1.
 - Walls repainted [WALL COLOUR], trim, fascia and window frames repainted
   [TRIM COLOUR], smooth and fresh.
 - Shutters (if any) painted [ACCENT COLOUR].
@@ -69,9 +68,8 @@ no logos, no house numbers.
 - New simple mailbox and door hardware in [BLACK / BRONZE / BRASS].
 ```
 
-### Level 3 changes
+### Level 3 changes (upload your Level 2 image)
 ```
-- Everything from level 2.
 - New roof in [COLOUR / MATERIAL], same roof shape.
 - New concrete or paved path and steps, same position and number of steps.
 - New outdoor wall lights beside the door, switched off.
