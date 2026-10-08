@@ -1,6 +1,6 @@
 # Colour combinations
 
-24 tested facade palettes. Each is shown on the same house so you can compare them fairly.
+24 facade palettes. Each is shown on the same house so you can compare them fairly.
 
 **Screens and printers change colours.** Use the codes to find close matches at the store, then **always test real samples** on your wall, outside, in morning and afternoon light. Check HOA, council or heritage rules before you buy.
 
