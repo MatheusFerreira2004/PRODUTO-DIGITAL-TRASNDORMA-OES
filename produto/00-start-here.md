@@ -14,15 +14,17 @@ You will:
 
 ---
 
-## Three ways to use this book
+## Ways to use this book
 
 | If you want to... | Go to |
 |---|---|
+| Do something this weekend | **10 quick wins** |
 | See your own house transformed today | **Your home first** |
 | Get ideas for one part, like the door or the garden | **Parts of the facade** |
 | Choose colours | **Colour combinations** |
-| See full makeovers of houses like yours | **12 example houses** |
+| See full makeovers of houses like yours, with shopping lists and a weekend plan | **12 example houses** |
 | Turn the picture into a real plan | **From image to reality** |
+| Get ready to sell | **Before you list** |
 
 ---
 
@@ -37,6 +39,8 @@ Every example house is shown at three levels. You do not have to go all the way.
 | Effort | Low to Medium | Medium to High | Hire |
 
 **Level 1 never includes** roof work, structural repairs or electrical work.
+
+**Abandoned houses take longer.** When a yard is badly overgrown, the clear-up alone can fill a weekend. Houses 01 and 06 plan Level 1 over two weekends.
 
 ---
 
@@ -74,7 +78,7 @@ The 12 example houses cover common styles in the US, Canada and Australia. If no
 - **A picture is not a building plan.** Anything involving structure, roofs, wiring or gas needs a qualified professional.
 - **Old houses can hide hazards.** Lead paint and asbestos are covered in *From image to reality*. Read that page before scraping, sanding or drilling outside.
 - **Local rules may limit changes.** Homeowners associations, councils and heritage areas can control colours and materials.
-- **No prices.** Costs vary too much by place and year. Effort is shown as Low, Medium or High.
+- **No prices.** Costs vary too much by place and year. Effort is shown as Low, Medium or High. Shopping lists use generic products and typical quantities.
 
 ## Words
 
