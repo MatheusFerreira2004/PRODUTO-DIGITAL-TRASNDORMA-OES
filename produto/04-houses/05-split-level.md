@@ -1,8 +1,8 @@
 # House 05 · Split-level · Plain
 
 [IMAGE: casa05-splitlevel_frontal_antes · casa05-splitlevel_aerea_antes]
-[IMAGE: casa05-splitlevel_frontal_n1 · casa05-splitlevel_aerea_n1]
-[IMAGE: casa05-splitlevel_frontal_n2 · casa05-splitlevel_aerea_n2]
+[IMAGE: casa05-splitlevel_frontal_n1]
+[IMAGE: casa05-splitlevel_frontal_n2]
 [IMAGE: casa05-splitlevel_frontal_n3 · casa05-splitlevel_aerea_n3]
 
 ## The recipe
@@ -31,17 +31,28 @@
 
 **Most common mistake:** keeping three different wall colours. Choose one wall colour that sits well with the brick.
 
+### Level 1 shopping list
+- Door kit: slate blue exterior door paint
+- Bed kit: mulch and low shrubs for two or three stepped beds
+- One large planter (at least 20 in / 50 cm wide) with a small tree or tall shrub
+
+### Level 1 plan: one weekend
+| | Morning | Afternoon |
+|---|---|---|
+| Saturday | Mark and dig the stepped beds. | Door: clean, sand, prime. |
+| Sunday | Door: first coat. Plant and mulch the beds. | Door: second coat. Set the planter, mow. |
+
 ---
 
 ## Production
 
 **Before:** 1970s split-level house, lower level in orange-red brick with garage, upper level in pale green horizontal siding, entry door half a level up with five concrete steps and a thin black iron railing, low-pitched roof, aluminium windows. Condition: plain and mismatched; bare lawn, no garden, white garage door yellowed.
 
-**Level 1 — change:** stepped garden beds with mulch and low shrubs following the levels; front door painted slate blue; one large planter with a small tree at the foot of the steps; lawn mowed.
+**Level 1 (front) — change:** stepped garden beds with mulch and low shrubs following the levels; front door painted slate blue; one large planter with a small tree at the foot of the steps; lawn mowed.
 **Keep:** green siding, brick, garage door, railing, roof.
 
-**Level 2 — change:** upper siding painted warm taupe, trim and garage door painted warm white, window frames warm white.
+**Level 2 (front) — change:** upper siding painted warm taupe, trim and garage door painted warm white, window frames warm white.
 **Keep:** brick, railing, roof, door colour.
 
-**Level 3 — change:** new simple black metal railing at the steps; new flush garage door in warm white; new charcoal roof, same shape.
+**Level 3 (front, then aerial) — change:** new simple black metal railing at the steps; new flush garage door in warm white; new charcoal roof, same shape.
 **Keep:** everything else.

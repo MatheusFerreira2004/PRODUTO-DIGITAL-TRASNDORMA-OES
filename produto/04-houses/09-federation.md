@@ -1,8 +1,8 @@
 # House 09 · Federation · Worn
 
 [IMAGE: casa09-federation_frontal_antes · casa09-federation_aerea_antes]
-[IMAGE: casa09-federation_frontal_n1 · casa09-federation_aerea_n1]
-[IMAGE: casa09-federation_frontal_n2 · casa09-federation_aerea_n2]
+[IMAGE: casa09-federation_frontal_n1]
+[IMAGE: casa09-federation_frontal_n2]
 [IMAGE: casa09-federation_frontal_n3 · casa09-federation_aerea_n3]
 
 ## The recipe
@@ -26,9 +26,21 @@
 
 **Order:** check heritage rules → test paint → roof and tiles (pro) → timber paint → garden.
 
-**Watch out:** many Federation houses are in heritage areas where councils control colours, fences and roofing. Ask before you buy paint.
+**Watch out:** many Federation houses are in heritage areas where councils control colours, fences and roofing. Ask before you buy paint. The door is old timber: test for lead before sanding. Clean tessellated tiles with water and a pH-neutral cleaner only; acids and strong cleaners can damage them.
 
 **Most common mistake:** painting all the timber one colour. Two heritage colours pick out the detail that makes the house special.
+
+### Level 1 shopping list
+- Clear-up kit
+- Small hedge plants (enough for one plant about every 1-1.5 ft / 30-45 cm along the fence), bed kit
+- Door kit: deep green exterior door paint, chosen after checking heritage rules
+- Soft brush, bucket, pH-neutral tile cleaner
+
+### Level 1 plan: one weekend
+| | Morning | Afternoon |
+|---|---|---|
+| Saturday | Clear the garden. Lead test on the door. | Door: clean, sand (only if the test is clear), prime. Plant the hedge line. |
+| Sunday | Door: first coat. Clean the verandah tiles by hand. | Door: second coat. Mulch, sweep the path. |
 
 ---
 
@@ -36,11 +48,11 @@
 
 **Before:** Australian Federation-style single-storey house, red face brick, steep hipped roof with a projecting front gable with timber battens, bullnose corrugated verandah roof on turned timber posts with decorative timber fretwork, tessellated tile verandah floor, leadlight front door, low brick fence with iron palisade. Condition: worn; timber paint flaking, verandah roof rusty, tiles dirty and a few cracked, garden overgrown.
 
-**Level 1 — change:** garden cleared; low clipped hedge behind the fence; path swept; verandah tiles cleaned (cracks still visible); front door painted deep green.
+**Level 1 (front) — change:** garden cleared; low clipped young hedge behind the fence; path swept; verandah tiles cleaned (cracks still visible); front door painted deep green.
 **Keep:** flaking timber, rusty verandah roof, fence.
 
-**Level 2 — change:** fretwork, posts, gable battens and window trim painted cream with deep green details; loose fretwork fixed; fence palisade painted deep green.
+**Level 2 (front) — change:** fretwork, posts, gable battens and window trim painted cream with deep green details; loose fretwork fixed; fence palisade painted deep green.
 **Keep:** red brick, roofs, cracked tiles.
 
-**Level 3 — change:** cracked tiles replaced so the tessellated floor is complete; new red corrugated metal bullnose verandah roof; main roof in red tile, same shape.
+**Level 3 (front, then aerial) — change:** cracked tiles replaced so the tessellated floor is complete; new red corrugated metal bullnose verandah roof; main roof in red tile, same shape.
 **Keep:** everything else.

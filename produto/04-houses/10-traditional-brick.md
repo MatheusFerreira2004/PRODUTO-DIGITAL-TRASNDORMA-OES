@@ -1,8 +1,8 @@
 # House 10 · Traditional brick · Plain
 
 [IMAGE: casa10-tijolo_frontal_antes · casa10-tijolo_aerea_antes]
-[IMAGE: casa10-tijolo_frontal_n1 · casa10-tijolo_aerea_n1]
-[IMAGE: casa10-tijolo_frontal_n2 · casa10-tijolo_aerea_n2]
+[IMAGE: casa10-tijolo_frontal_n1]
+[IMAGE: casa10-tijolo_frontal_n2]
 [IMAGE: casa10-tijolo_frontal_n3 · casa10-tijolo_aerea_n3]
 
 ## The recipe
@@ -31,17 +31,29 @@
 
 **Most common mistake:** painting the trim cream on red brick. Clean white gives the strongest contrast.
 
+### Level 1 shopping list
+- Spade and half-moon edger to cut a new bed out of the lawn
+- Bed kit: one shrub type repeated, about one every 2-3 ft (60-90 cm)
+- Door kit: navy exterior door paint
+- Pot kit, plus a large doormat
+
+### Level 1 plan: one weekend
+| | Morning | Afternoon |
+|---|---|---|
+| Saturday | Lay out the curved bed with a hose; cut and lift the turf. | Door: clean, sand, prime. |
+| Sunday | Door: first coat. Plant the shrubs, mulch. | Door: second coat. Planters, doormat, edge the lawn. |
+
 ---
 
 ## Production
 
 **Before:** single-storey traditional red brick house, side-gabled roof, front door slightly off-centre with three windows, white-ish faded trim, plain concrete step and straight path, no shutters. Condition: plain; flat lawn right up to the walls, no garden, faded brown door.
 
-**Level 1 — change:** curved foundation bed along the front with repeated low evergreen shrubs and mulch; front door painted navy; two black planters with green plants; large black doormat; lawn edged.
+**Level 1 (front) — change:** curved foundation bed along the front with repeated low evergreen shrubs and mulch; front door painted navy; two black planters with green plants; large black doormat; lawn edged.
 **Keep:** trim, roof, step, path.
 
-**Level 2 — change:** window trim and fascia painted crisp white; black shutters, each half the window width and full height, on the three windows; black door hardware and mailbox.
+**Level 2 (front) — change:** window trim and fascia painted crisp white; black shutters, each half the window width and full height, on the three windows; black door hardware and mailbox.
 **Keep:** brick, roof, path.
 
-**Level 3 — change:** small gabled porch roof on two white columns over the front door; new brick-edged concrete path; new charcoal roof, same shape.
+**Level 3 (front, then aerial) — change:** small gabled porch roof on two white columns over the front door; new brick-edged concrete path; new charcoal roof, same shape.
 **Keep:** everything else.

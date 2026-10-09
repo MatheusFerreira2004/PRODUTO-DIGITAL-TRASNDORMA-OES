@@ -1,8 +1,8 @@
 # House 02 · Ranch · Dated
 
 [IMAGE: casa02-ranch_frontal_antes · casa02-ranch_aerea_antes]
-[IMAGE: casa02-ranch_frontal_n1 · casa02-ranch_aerea_n1]
-[IMAGE: casa02-ranch_frontal_n2 · casa02-ranch_aerea_n2]
+[IMAGE: casa02-ranch_frontal_n1]
+[IMAGE: casa02-ranch_frontal_n2]
 [IMAGE: casa02-ranch_frontal_n3 · casa02-ranch_aerea_n3]
 
 ## The recipe
@@ -32,17 +32,29 @@
 
 **Most common mistake:** keeping tiny shutters. On a wide, low house they look fake; removing them looks cleaner.
 
+### Level 1 shopping list
+- Clear-up kit (loppers and hedge shears are the main tools here)
+- Door kit: deep teal exterior door paint
+- Bed kit: dark mulch to refresh existing beds
+- Pot kit: two large planters with green shrubs
+
+### Level 1 plan: one weekend
+| | Morning | Afternoon |
+|---|---|---|
+| Saturday | Cut shrubs back below the windowsills; bag the cuttings. | Door: remove hardware, clean, sand, prime. |
+| Sunday | Door: first coat. Edge the lawn, mulch the beds. | Door: second coat once the label allows. Pots, sweep the driveway. |
+
 ---
 
 ## Production
 
 **Before:** single-storey 1970s ranch house, long and low, brown horizontal siding with a lower band of tan brick, attached garage on the right with a plain brown garage door, low-pitched brown shingle roof, small dark brown shutters, front door in a shallow recess. Condition: dated but sound; overgrown shrubs covering the lower windows, patchy lawn, faded paint, cracked driveway.
 
-**Level 1 — change:** shrubs cut back below the windowsills; lawn mowed and edged; fresh dark mulch in the beds; front door painted deep teal; two large planters with green shrubs beside the door; driveway swept.
+**Level 1 (front) — change:** shrubs cut back below the windowsills; lawn mowed and edged; fresh dark mulch in the beds; front door painted deep teal; two large planters with green shrubs beside the door; driveway swept.
 **Keep:** brown siding and garage door, shutters, roof, cracked driveway.
 
-**Level 2 — change:** siding repainted soft dove grey, trim and fascia white, garage door painted the same dove grey; shutters removed; black door handle and black mailbox; lawn greener.
+**Level 2 (front) — change:** siding repainted soft dove grey, trim and fascia white, garage door painted the same dove grey; shutters removed; black door handle and black mailbox; lawn greener.
 **Keep:** brick band, roof, driveway, door colour.
 
-**Level 3 — change:** new dark grey shingle roof, same shape; new smooth concrete driveway in the same position; two black wall lights beside the front door and one above the garage, switched off.
+**Level 3 (front, then aerial) — change:** new dark grey shingle roof, same shape; new smooth concrete driveway in the same position; two black wall lights beside the front door and one above the garage, switched off.
 **Keep:** everything else.

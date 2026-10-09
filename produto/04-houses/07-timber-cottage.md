@@ -1,8 +1,8 @@
 # House 07 · Timber cottage · Worn
 
 [IMAGE: casa07-cottage_frontal_antes · casa07-cottage_aerea_antes]
-[IMAGE: casa07-cottage_frontal_n1 · casa07-cottage_aerea_n1]
-[IMAGE: casa07-cottage_frontal_n2 · casa07-cottage_aerea_n2]
+[IMAGE: casa07-cottage_frontal_n1]
+[IMAGE: casa07-cottage_frontal_n2]
 [IMAGE: casa07-cottage_frontal_n3 · casa07-cottage_aerea_n3]
 
 ## The recipe
@@ -31,17 +31,29 @@
 
 **Most common mistake:** painting the fence white and the trim cream. Use the same white for both.
 
+### Level 1 shopping list
+- Clear-up kit, plus a weeding tool
+- Door kit: brick red exterior door paint
+- Replacement pickets matching the existing size and top shape, exterior screws or nails, a spirit level
+- Bed kit: low flowering shrubs and perennials for a cottage bed
+
+### Level 1 plan: one weekend
+| | Morning | Afternoon |
+|---|---|---|
+| Saturday | Weed the garden. Fix the missing pickets, levelling each top with its neighbours. | Door: clean, sand (after a lead test), prime. |
+| Sunday | Door: first coat. Plant the cottage bed. | Door: second coat. Mulch, sweep the path. |
+
 ---
 
 ## Production
 
 **Before:** small single-storey timber cottage, weatherboard walls, short front verandah with timber posts and a bullnose corrugated roof, gabled main roof, central door with a window each side, white picket fence and gate in front, short straight path. Condition: worn; paint faded and flaking, several fence pickets missing, weedy garden, some verandah boards warped.
 
-**Level 1 — change:** garden weeded and planted with a soft cottage-style mix of low flowering shrubs; missing pickets replaced (still unpainted timber); front door painted brick red; path swept.
+**Level 1 (front) — change:** garden weeded and planted with a soft cottage-style mix of low flowering shrubs; missing pickets replaced (still unpainted timber); front door painted brick red; path swept.
 **Keep:** faded wall paint, roof, verandah, fence colour.
 
-**Level 2 — change:** weatherboards painted soft sage green; trim, posts, fence and gate painted the same warm cream; verandah boards repaired and painted grey.
+**Level 2 (front) — change:** weatherboards painted soft sage green; trim, posts, fence and gate painted the same warm cream; verandah boards repaired and painted grey.
 **Keep:** roof, path, door colour.
 
-**Level 3 — change:** new grey corrugated metal roof and verandah roof, same shapes; new verandah decking; new brick-paved path in the same position.
+**Level 3 (front, then aerial) — change:** new grey corrugated metal roof and verandah roof, same shapes; new verandah decking; new brick-paved path in the same position.
 **Keep:** everything else.
